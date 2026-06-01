@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://punya-kita.github.io/sk-site-7q4m2x/sitemap.xml

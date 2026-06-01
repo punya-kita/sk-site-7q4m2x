@@ -1,0 +1,11 @@
+{
+  "name": "Suplai Kantor",
+  "short_name": "Suplai Kantor",
+  "description": "Kebutuhan kantor dan operasional bisnis.",
+  "start_url": "/sk-site-7q4m2x/",
+  "scope": "/sk-site-7q4m2x/",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#1F6F4A",
+  "lang": "id-ID"
+}
